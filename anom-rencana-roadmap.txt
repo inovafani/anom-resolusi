@@ -4,5 +4,6 @@ Belajar bahasa lain
 - Golang
   * Belajar fundamental
   * Belajar framework
+- Fundamental struktur data
 - Java
 - Visual Basic
