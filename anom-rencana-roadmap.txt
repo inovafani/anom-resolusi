@@ -10,3 +10,4 @@ Belajar bahasa lain
 - Perdalam Javascript
   * Belajar framework Vue
   * Belajar framework React
+  * Belajar framework Angular
