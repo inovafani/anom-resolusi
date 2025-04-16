@@ -7,3 +7,7 @@ Belajar bahasa lain
 - Fundamental struktur data
 - Java
 - Visual Basic
+- Perdalam Javascript
+  * Belajar framework Vue
+  * Belajar framework React
+  * Belajar framework Angular
