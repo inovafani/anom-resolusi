@@ -1,0 +1,8 @@
+Rencana Roadmap
+
+Belajar bahasa lain
+- Golang
+  * Belajar fundamental
+  * Belajar framework
+- Java
+- Visual Basic
