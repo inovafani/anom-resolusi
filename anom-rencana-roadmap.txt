@@ -6,5 +6,8 @@ Belajar bahasa lain
   * Belajar framework
 - Java
 - Visual Basic
-- Belajar PHP
-  * Belajar framewor Laravel
+- Perdalam Javascript
+  * Belajar framework Vue
+  * Belajar framework React
+  * Belajar framework Angular
+
